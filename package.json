@@ -66,6 +66,7 @@
     "rollup-plugin-node-globals": "^1.1.0",
     "rollup-plugin-node-resolve": "^4.0.0",
     "rollup-plugin-uglify": "^6.0.0",
+    "rollup-pluginutils": "2.7.1",
     "rsvp": "^4.7.0",
     "serve": "*",
     "unexpected-documentation-site-generator": "^6.0.0",
