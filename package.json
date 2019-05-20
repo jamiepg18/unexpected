@@ -70,7 +70,8 @@
     "serve": "*",
     "unexpected-documentation-site-generator": "^6.0.0",
     "unexpected-magicpen": "^1.0.0",
-    "unexpected-markdown": "^3.0.0"
+    "unexpected-markdown": "^3.0.0",
+    "electron-to-chromium": "1.3.134"
   },
   "files": [
     "unexpected.js",
